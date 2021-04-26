@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>nyingi.workerservice.nuspec</id>
+    <version>1.0.0</version>
+    <description>
+      This is a template for creating .Net Core WorkerService
+    </description>
+    <authors>John Nyingi</authors>
+    <license type="expression">Apache-2.0</license>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/j0nimost/Dotnet-Templates" branch="main"/>
+  </metadata>
+  <files>
+    <file src="Content\**\*.*" exclude="Content\**\bin\**\*.*;Content\**\obj\**\*.*" target="Content" />
+  </files>  
+</package>

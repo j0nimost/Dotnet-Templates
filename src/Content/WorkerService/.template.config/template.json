@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "John Nyingi",
+    "classifications": ["Worker"],
+    "identity": "nyingi.workerservice.template",
+    "name": "nyingi.workerservice",
+    "shortName": "workersvc",
+    "tags": {
+        "type": "project",
+        "language": "C#"
+    },
+    "sourceName": "WorkerService"
+}

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>nyingi.workerservice.nuspec</id>
-    <version>1.0.0</version>
+    <id>nyingi.workerservice</id>
+    <version>1.0.1</version>
     <description>
       This is a template for creating .Net Core WorkerService
     </description>

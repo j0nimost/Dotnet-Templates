@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>nyingi.workerservice</id>
-    <version>1.0.1</version>
+    <id>nyingi.dotnet.templates</id>
+    <version>1.0.2</version>
     <description>
-      This is a template for creating .Net Core WorkerService
+      This is a template for creating .Net Core Projects
     </description>
     <authors>John Nyingi</authors>
     <license type="expression">Apache-2.0</license>

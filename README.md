@@ -8,10 +8,10 @@ This projects consists of dotnet project templates, as of now it has;
 
 ### To Start
 
-Simply headover to [Nuget](https://www.nuget.org/packages/nyingi.workerservice.nuspec/) and 
+Simply headover to [Nuget](https://www.nuget.org/packages/nyingi.dotnet.templates) and 
 
 - Install the package
-`dotnet new -i nyingi.workerservice`
+`dotnet new -i nyingi.dotnet.templates`
 
 - Create a new project
 `dotnet new workersvc -o "NameofProject"`

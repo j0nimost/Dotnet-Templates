@@ -1,5 +1,6 @@
 ## DotnetCore Templates
 
+[![Build Status](https://travis-ci.com/j0nimost/Dotnet-Templates.svg?branch=main)](https://travis-ci.com/github/j0nimost/Dotnet-Templates)
 True to the DRY principle it's best to reuse existing solutions to get work done QUICKLY!
 
 This projects consists of dotnet project templates, as of now it has;

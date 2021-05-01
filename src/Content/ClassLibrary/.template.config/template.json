@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "John Nyingi",
+    "classifications": ["Classlib"],
+    "identity": "nyingi.standard.classlib",
+    "name": "nyingi.standard.classlib",
+    "shortName": "stdclasslib",
+    "tags": {
+        "type": "project",
+        "language": "C#"
+    },
+    "sourceName": "ClassLibrary"
+}

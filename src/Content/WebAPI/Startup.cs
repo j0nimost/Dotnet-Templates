@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using WebAPI.Middlewares;
 
 namespace WebAPI
 {
@@ -45,6 +46,10 @@ namespace WebAPI
             }
 
             app.UseHttpsRedirection();
+
+            // Inject the Middleware to the appbuilder
+            app.UseWebAPI();
+
 
             app.UseRouting();
 

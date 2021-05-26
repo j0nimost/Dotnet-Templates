@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerService", "Content\Wo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "Content\ClassLibrary\ClassLibrary.csproj", "{C8EF68C3-24E0-461A-898C-F5932EB6B51C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "Content\WebAPI\WebAPI.csproj", "{88C13BF1-2B51-48F2-92FE-ED176611905B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{C8EF68C3-24E0-461A-898C-F5932EB6B51C}.Release|x64.Build.0 = Release|Any CPU
 		{C8EF68C3-24E0-461A-898C-F5932EB6B51C}.Release|x86.ActiveCfg = Release|Any CPU
 		{C8EF68C3-24E0-461A-898C-F5932EB6B51C}.Release|x86.Build.0 = Release|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Debug|x64.Build.0 = Debug|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Debug|x86.Build.0 = Debug|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Release|x64.ActiveCfg = Release|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Release|x64.Build.0 = Release|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Release|x86.ActiveCfg = Release|Any CPU
+		{88C13BF1-2B51-48F2-92FE-ED176611905B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

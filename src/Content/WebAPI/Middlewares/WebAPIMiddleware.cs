@@ -34,8 +34,8 @@ namespace WebAPI.Middlewares
         /// <summary>
         /// Middleware Error handler
         /// </summary>
-        /// <param name="context"></param>
-        /// <param name="ex"></param>
+        /// <param name="context">Http Context</param>
+        /// <param name="ex">Exception Message</param>
         /// <returns></returns>
         public static Task HandleError(HttpContext context, string ex)
         {

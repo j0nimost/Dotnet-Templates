@@ -1,0 +1,13 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "John Nyingi",
+    "classifications": ["Web/WebAPI"],
+    "identity": "nyingi.standard.apitemp",
+    "name": "nyingi.standard.apitemp",
+    "shortName": "apitemp",
+    "tags": {
+        "type": "project",
+        "language": "C#"
+    },
+    "sourceName": "WebAPI"
+}

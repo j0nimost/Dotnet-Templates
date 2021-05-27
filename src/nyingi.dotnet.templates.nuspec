@@ -2,11 +2,12 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>nyingi.dotnet.templates</id>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <description>
       This is a template for creating .Net Core Projects; 
       - Worker Service
       - Standard Class Library
+      - WebAPI
     </description>
     <authors>John Nyingi</authors>
     <license type="expression">Apache-2.0</license>

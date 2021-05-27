@@ -4,3 +4,4 @@ dotnet: 5.0.203
 solution: ./src/dotnetcoretemp.sln
 script: 
   - dotnet restore
+  - dotnet build .\src\dotnetcoretemp.sln

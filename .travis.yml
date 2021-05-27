@@ -2,5 +2,6 @@ language: csharp
 mono: none
 dotnet: 5.0.2
 script: 
-  - dotnet restore .\src\dotnetcoretemp.sln
-  - dotnet build .\src\dotnetcoretemp.sln
+  - cd src
+  - dotnet restore dotnetcoretemp.sln
+  - dotnet build dotnetcoretemp.sln

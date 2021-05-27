@@ -8,6 +8,7 @@ This projects consists of dotnet project templates, as of now it has;
 
 - Worker Service 
 - Class Library
+- WebAPI
 
 ### To Start
 

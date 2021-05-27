@@ -1,2 +1,6 @@
 language: csharp
+mono: none
+dotnet: 5.0.203
 solution: ./src/dotnetcoretemp.sln
+script: 
+  - dotnet restore

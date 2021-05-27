@@ -1,7 +1,6 @@
 language: csharp
 mono: none
-dotnet: 5.0.203
-solution: ./src/dotnetcoretemp.sln
+dotnet: 5.0.2
 script: 
-  - dotnet restore
+  - dotnet restore .\src\dotnetcoretemp.sln
   - dotnet build .\src\dotnetcoretemp.sln
